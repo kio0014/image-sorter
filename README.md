@@ -43,9 +43,9 @@ in the same folder as the `.exe`.
 
 | Key               | Action                         |
 | ----------------- | ------------------------------ |
-| **Right Arrow →** | Move current file to **Bin 1** |
-| **Left Arrow ←**  | Move current file to **Bin 2** |
-| **Up Arrow ↑**    | Skip current file              |
+| **Right Arrow →** | Move current img to **Bin 1**  |
+| **Left Arrow ←**  | Move current img to **Bin 2**  |
+| **Up Arrow ↑**    | Skip current img/vid           |
 | **Down Arrow ↓**  | Undo the previous action       |
 | **ESC**           | Exit                           |
 
