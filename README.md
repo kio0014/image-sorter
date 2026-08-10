@@ -11,9 +11,10 @@ You **do not need Python** or any other software.
 Go to the **Releases** section of this GitHub repository and download:
 
 **`image_sorter.zip`**
-**`extract the zip file and run the exe`**
 
-### 2. Run it
+**`extract the zip file and you will see the exe and readme`**
+
+### 2. Run the exe
 
 Double-click the downloaded `.exe`.
 
