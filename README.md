@@ -10,7 +10,8 @@ You **do not need Python** or any other software.
 
 Go to the **Releases** section of this GitHub repository and download:
 
-**`image sorter.exe`**
+**`image_sorter.zip`**
+**`extract the zip file and run the exe`**
 
 ### 2. Run it
 
