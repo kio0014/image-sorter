@@ -113,11 +113,10 @@ If you accidentally sort something, press **↓ Down Arrow** to undo the last ac
 ## 💻 Requirements
 
 * Windows 10 or Windows 11
-* No Python installation required
-* No additional dependencies required
+* Enough brain cells
 
 ## 📦 Download
 
-Download the latest `.exe` from the **Releases** section.
+Download the latest `.exe/.zip` from the **Releases** section.
 
 That's it
